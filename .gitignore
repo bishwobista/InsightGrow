@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+.Python
+
+# Django specific
+*.log
+*.pot
+*.pyc
+*.sqlite3
+db.sqlite3
+
+# VS Code settings
+.vscode/
+
+# Byte-compiled / cache
+*.py[cod]
+__pycache__/
+*.so
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Test and coverage files
+.coverage
+htmlcov/
+.tox/
+.nox/
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.cover
+*.log
+*.mo
+
+# Environment variables
+.env
+.env.*
+
+# Node modules (if using front-end tools)
+node_modules/
+
+# Compiled files
+*.out
+*.class
+*.o
+*.exe
